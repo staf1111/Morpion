@@ -4,7 +4,8 @@ Jeu de morpion (tic-tac-toe) à deux joueurs sur le même ordinateur, développ�
 
 Projet commencé en terminale en version console, puis repris avec une interface graphique.
 
-![Aperçu du jeu](apercu.png)
+
+<img width="600" height="820" alt="image" src="https://github.com/user-attachments/assets/ed3fd116-3542-44cf-b700-2463039bd1e0" />
 
 ##  Fonctionnalités
 - Partie à deux joueurs (X et O) à la souris
@@ -34,14 +35,14 @@ Projet commencé en terminale en version console, puis repris avec une interface
    python morpion.py
    ```
 
-## 🕹️ Commandes
+##  Commandes
 | Action | Commande |
 |---|---|
 | Jouer un coup | Clic gauche sur une case |
 | Nouvelle partie | Bouton « Rejouer » ou touche **R** |
 | Quitter | Fermer la fenêtre |
 
-## 📌 Évolutions possibles
+##  Évolutions possibles
 - Mode un joueur contre l'ordinateur (algorithme minimax)
 - Sons et musique
 - Choix des couleurs et des noms des joueurs
