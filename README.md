@@ -2,7 +2,7 @@
 
 Jeu de morpion (tic-tac-toe) à deux joueurs sur le même ordinateur, développé en **Python** avec la bibliothèque **Pygame**.
 
-Projet commencé en terminale en version console, puis repris avec une interface graphique.
+Projet en terminale et amélioration de la partie graphique en 1er année de BUT.
 
 
 <img width="600" height="820" alt="image" src="https://github.com/user-attachments/assets/ed3fd116-3542-44cf-b700-2463039bd1e0" />
